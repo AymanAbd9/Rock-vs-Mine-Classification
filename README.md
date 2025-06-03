@@ -1,5 +1,5 @@
 
-# KNN Classification for Sonar Data
+# Rock vs Mine Classification
 
 This project demonstrates the use of the K-Nearest Neighbors (KNN) algorithm to classify sonar data. The sonar dataset contains information about objects detected underwater, categorized as either "Rock" or "Mine" based on their acoustic properties. 
 
